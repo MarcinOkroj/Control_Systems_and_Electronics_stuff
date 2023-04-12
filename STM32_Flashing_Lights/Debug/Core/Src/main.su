@@ -1,0 +1,14 @@
+main.c:59:6:spi_write	16	static
+main.c:66:6:max7219_write	16	static
+main.c:71:6:wyswietlanie1	8	static
+main.c:83:6:wyswietlanie2	8	static
+main.c:95:6:wyswietlanie3	8	static
+main.c:107:6:wyswietlanie4	8	static
+main.c:119:6:wyswietlanie5	8	static
+main.c:130:6:plywajace_swiatlo	16	static
+main.c:166:6:max7219_init	8	static
+main.c:198:5:main	8	static
+main.c:243:6:SystemClock_Config	72	static
+main.c:279:13:MX_SPI1_Init	8	static
+main.c:319:13:MX_GPIO_Init	40	static
+main.c:366:6:Error_Handler	4	static,ignoring_inline_asm
